@@ -1,0 +1,6 @@
+Adopt the right practices with the right culture
+Including a new tool in your stack is a large undertaking. It involves both the upskilling of people, changing of processes and experience from trials to be ready for production. Our DevOps training services can help you in all these aspects,
+starting with setting your teams up for success by leveraging the powers of the new tools.
+
+DevOps training based on the real world of DevOps
+Our training material is designed by seasoned experts in the field with production experience. We have cut straight to the core of what you need to know to use the tools, and we are not afraid to call out the real-life pitfalls and proven best practices.
